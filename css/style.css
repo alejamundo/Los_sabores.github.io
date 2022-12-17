@@ -491,4 +491,8 @@
     .imgen_footer{
         width: 300px;
     }
+    .bg-dark {
+        display: flex;
+        flex-direction: column;
+    }
 }
